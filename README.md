@@ -48,7 +48,7 @@ I enjoy working across the full spectrum of software development:
   Full-stack project collaboration application  
   **React · Express · PostgreSQL**
 
-- 🧠 **Brain Tumor Detection System with CNNs**  
+- 🧠 **NeuroSight: Brain Tumor Detection System with CNNs**  
   Medical image classification using CNNs and **transfer learning**
   
 - 🏫 **CampusConnect**  
