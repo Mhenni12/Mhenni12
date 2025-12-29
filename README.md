@@ -1,102 +1,87 @@
-# 👋 Hi, I'm Aziz Mh
+# 👋 Hi, I'm Mohamed Aziz Mhenni
 
-🎓 Software Engineering student  
-🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science  
-🔐 Interested in AI applied to Cybersecurity  
-📍 Tunisia
+Software Engineering Student at the Faculty of Sciences of Tunis 
+
+Data Science & Machine Learning Enthusiast  
+
+Full-Stack Developer  
 
 ---
 
 ## 🚀 About Me
 
-I'm a software engineering student with a strong interest in building **intelligent, real-world systems**.  
-My work spans **machine learning pipelines**, **data preprocessing**, **software development**, and **applied AI projects**.
+I'm a **software engineering student** passionate about building **data-driven systems** and **scalable full-stack applications**.
 
-I enjoy:
-- Exploring datasets and extracting insights through **EDA**
-- Designing and training **supervised & unsupervised ML models**
-- Working on **AI + cybersecurity** topics (anomaly detection, adversarial ML)
-- Collaborating on structured, well-documented technical projects
+I enjoy working across the full spectrum of software development:
+- Turning data into insights using **machine learning & deep learning**
+- Designing and deploying **modern web applications**
+- Bridging AI models with real-world software systems
 
 ---
 
 ## 🧠 Areas of Interest
 
-- Machine Learning & Deep Learning  
-- Data Preprocessing & Feature Engineering  
+- Data Science & Machine Learning  
+- Deep Learning & Neural Networks  
 - Natural Language Processing (NLP)  
-- AI for Cybersecurity  
-- Software Engineering & System Design  
+- Full-Stack Web Development  
+- Applied AI Systems  
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Data Science & AI
 
-**Languages**
-- Python
-- Java
-- SQL
+### 🔹 Skills
+- Machine Learning
+- Deep Learning (PyTorch, TensorFlow)
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks (RNNs)
+- Natural Language Processing (NLP)
+- Sentiment Analysis
 
-**Machine Learning / Data**
-- NumPy, Pandas
-- Scikit-learn
-- Matplotlib, Seaborn
-- Jupyter Notebook
+---
+
+## 💻 Software Engineering & Full-Stack Development
+
+### 🔹 Technologies
+**Frontend**
+- Angular
+- React
+
+**Backend**
+- Node.js
+- Express
 
 **Databases**
+- PostgreSQL
+- MongoDB
 - MySQL
-- Oracle SQL / PL/SQL
+- PL/SQL
 
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Linux
-- Cisco Networking (Routing & Switching)
+## 🔹 Projects
+- 🌍 **Orbit**  
+  Full-stack project collaboration application  
+  **React · Express · PostgreSQL**
 
----
+- 🧠 **Brain Tumor Detection System with CNNs**  
+  Medical image classification using CNNs and **transfer learning**
+  
+- 🏫 **CampusConnect**  
+  E-commerce platform for small campus businesses  
+  **Angular · Express · PostgreSQL**
 
-## 📂 Featured Work
-
-🔹 **Machine Learning Notes & Projects**
-- Exploratory Data Analysis (EDA)
-- Supervised Learning (Classification, Regression)
-- Unsupervised Learning (Clustering, Anomaly Detection)
-- End-to-end ML pipelines
-
-🔹 **AI & Cybersecurity**
-- Network intrusion detection (NSL-KDD)
-- Anomaly detection models
-- Study of ML limitations in cybersecurity
-
-🔹 **Software Engineering Projects**
-- Hotel management systems (Java + SQL)
-- Academic management systems
-- Database design & migration (MySQL → Oracle)
+- 🏨 **Hotel Management System**  
+  Desktop & database-driven system  
+  **Java · PL/SQL · MySQL**
 
 ---
 
-## 🏆 Communities & Activities
+## 📫 Get in Touch
 
-- Google Developer Student Clubs (GDSC)
-- IEEE Student Branch
-- DevFest & tech events participant
-- Capture The Flag (CTF) challenges – Cryptography focused
-
----
-
-## 📊 GitHub Stats
-
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizMh&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizMh&layout=compact&theme=tokyonight)
+- GitHub: https://github.com/Mhenni12
+- LinkedIn: www.linkedin.com/in/mohamed-aziz-mhenni-7157772a6
+- Email: medazizmhenni12@gmail.com
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 GitHub: https://github.com/AzizMh
-- 📧 Email: *(add if you want)*  
-- 💡 Always open to collaboration on AI & ML projects
-
----
-
-⭐ *Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas!*
+⭐ *Always open to collaboration and sharing*
