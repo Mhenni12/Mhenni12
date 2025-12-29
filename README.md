@@ -17,21 +17,8 @@ I enjoy working across the full spectrum of software development:
 - Designing and deploying **modern web applications**
 - Bridging AI models with real-world software systems
 
----
+## 📊 Data Science & AI Skills
 
-## 🧠 Areas of Interest
-
-- Data Science & Machine Learning  
-- Deep Learning & Neural Networks  
-- Natural Language Processing (NLP)  
-- Full-Stack Web Development  
-- Applied AI Systems  
-
----
-
-## 📊 Data Science & AI
-
-### 🔹 Skills
 - Machine Learning
 - Deep Learning (PyTorch, TensorFlow)
 - Convolutional Neural Networks (CNNs)
@@ -43,7 +30,6 @@ I enjoy working across the full spectrum of software development:
 
 ## 💻 Software Engineering & Full-Stack Development
 
-### 🔹 Technologies
 **Frontend**
 - Angular
 - React
@@ -56,7 +42,6 @@ I enjoy working across the full spectrum of software development:
 - PostgreSQL
 - MongoDB
 - MySQL
-- PL/SQL
 
 ## 🔹 Projects
 - 🌍 **Orbit**  
